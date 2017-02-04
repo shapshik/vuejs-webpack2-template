@@ -1,0 +1,9 @@
+{
+  "name": "vuejs-webpack2-template",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Just-add-water project template for Vue.js with Webpack 2 bundling support.",
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
